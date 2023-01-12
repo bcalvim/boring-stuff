@@ -8,4 +8,3 @@ elif senha_digitada == '12345':
     print('Essa senha é a que um idiota usaria no cadeado de sua bagagem')
 else:
     print('Acesso negado')
-
